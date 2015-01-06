@@ -6,5 +6,6 @@ First addition into git
 * **item 2** - description 2
 
 ## Install
+
 In case a para is needed
 
